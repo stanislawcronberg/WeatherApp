@@ -6,5 +6,4 @@ var WeatherMessage = ({temp, location}) => {
   )
 };
 
-
 module.exports = WeatherMessage;
